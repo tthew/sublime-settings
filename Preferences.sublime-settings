@@ -1,0 +1,16 @@
+{
+	"detect_indentation": false,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 14.0,
+	"ignored_packages":
+	[
+	],
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+  "spell_check": true,
+  "dictionary": "Packages/Language - English/en_GB.dic",
+  "folder_exclude_patterns": [".bundle", ".git", ".sass-cache", "doc", "log", "script", "tmp"],
+  "file_exclude_patterns": ["*.png", "*.gif", ".DS_Store", ".rspec", "config.ru", "Gemfile.lock", "Rakefile"]
+}

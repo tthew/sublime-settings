@@ -1,0 +1,6 @@
+{
+  "cmd": ["grunt", "test"],
+  "working_dir": "${project_path:${folder:${file_path}}}",
+      "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+  "shell": true
+}
